@@ -24,7 +24,7 @@
         - Manual refinement of clusters
 
 - Requirements specified at: `requirements.txt`
-- A copy if inputs can be downloaded from: https://zenodo.org/uploads/15723900
+- A copy if inputs can be downloaded from: https://zenodo.org/uploads/15734764 (v2 upload)
 
 ## Installation
 ```bash
